@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 MD Siam Babon
 
-<!--
-**Siambabon/Siambabon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Cybersecurity Analyst | Cloud Security & IAM | Building Practical Security Projects**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔐 Focus Areas
+- Security Operations (SOC Fundamentals, Detection & Monitoring)
+- Cloud Security (Microsoft Azure, AWS)
+- Identity & Access Management (IAM, Entra ID, MFA, Conditional Access)
+- Networking & System Security (TCP/IP, DNS, HTTP, Linux, Windows)
+
+---
+
+## 🎯 Career Direction
+Cybersecurity Analyst → Cybersecurity Consultant → CISO
+
+---
+
+## 📌 Current Work
+- Building strong cybersecurity fundamentals through hands-on labs
+- Developing security-focused thinking (attack & defense perspective)
+- Working toward real-world projects in SOC and cloud security
+
+---
+
+## 🚀 Projects
+- Internet Security Flow Analysis *(in progress)*  
+  → Understanding how systems work, where attacks happen, and how they are defended  
+
+---
+
+## 📈 Learning Philosophy
+Focused on structured learning, consistency, and practical understanding rather than shortcuts.
+
+---
+
+## 🌍 Open To
+Entry-level opportunities, internships, and cybersecurity roles globally
+
+---
