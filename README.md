@@ -2,75 +2,54 @@
 
 ## Aspiring Cybersecurity Analyst | Security Operations (SOC) • Microsoft Azure • Cloud Security
 
-I'm an aspiring Cybersecurity Analyst building practical cybersecurity skills through hands-on labs, technical projects, and continuous learning.
+I am an aspiring Cybersecurity Analyst with a strong interest in Security Operations (SOC), Microsoft Azure, and Cloud Security.
 
-My current focus is developing strong defensive security skills in Security Operations (SOC), Microsoft Azure, networking, Windows, Linux, and cloud security while preparing for a professional career in cybersecurity.
+Currently, I am building practical cybersecurity skills through hands-on labs, technical projects, and continuous learning while developing a professional cybersecurity portfolio focused on defensive security.
 
 ---
 
-## 🔐 Current Focus Areas
+## 🔐 Core Focus Areas
 
 - Security Operations (SOC)
 - Microsoft Azure
 - Cloud Security
-- Networking Fundamentals (TCP/IP, DNS, HTTP)
-- Linux Fundamentals
+- Networking (TCP/IP, DNS, HTTP/HTTPS)
 - Windows Security
-- Security Monitoring & Threat Detection
-- Incident Detection & Response
+- Linux Fundamentals
+- Security Monitoring
+- Threat Detection
+- Incident Response Fundamentals
 
 ---
 
-## 🚀 Current Learning Journey
+## 🚀 What I'm Working On
 
-✔ TryHackMe
-
-✔ Microsoft Learn
-
-✔ Hands-on Security Labs
-
-✔ Technical Projects
-
-✔ GitHub Portfolio
+- Completing the TryHackMe Cyber Security 101 learning path
+- Building practical cybersecurity projects on GitHub
+- Expanding Microsoft Azure security knowledge through Microsoft Learn
+- Strengthening networking and operating system fundamentals
+- Developing technical documentation and security analysis skills
 
 ---
 
-## 📂 Current Projects
+## 📂 Featured Project
 
-### 🌐 Internet Security Flow Analysis *(In Progress)*
+### 🌐 Internet Security Flow Analysis
 
-Understanding how internet communication works and identifying where security risks occur across modern networks.
+A foundational cybersecurity project that explains how internet communication works, identifies attack surfaces, and explores defensive security controls from a real-world systems perspective.
 
-Future projects will include:
-
-- Windows Security Labs
-- Linux Security Labs
-- Azure Security Labs
-- SOC Investigation Labs
-- Threat Detection Projects
-- Incident Response Exercises
-
----
-
-## 🎯 Career Roadmap
-
-Cybersecurity Analyst
-
-⬇
-
-Cloud Security Engineer
-
-⬇
-
-Cloud Security Architect
+🔗 **Repository**
+- https://github.com/Siambabon/internet-security-analysis
 
 ---
 
 ## 📚 Currently Learning
 
-- Cyber Security 101
-- Security Analyst Level 1 (SOC)
-- Microsoft Azure
+- TryHackMe – Cyber Security 101
+- Microsoft Learn – Microsoft Azure
+- Networking Fundamentals
+- Windows Security
+- Linux Fundamentals
 - Cloud Security Fundamentals
 
 ---
@@ -78,21 +57,40 @@ Cloud Security Architect
 ## 🏆 Certifications
 
 - Google IT Support Professional Certificate
-- TryHackMe Pre Security
+- TryHackMe – Pre Security
+
+---
+
+## 🎯 Career Objective
+
+To begin my career as a Cybersecurity Analyst while continuously developing expertise in Security Operations (SOC), Microsoft Azure, and Cloud Security through hands-on learning, technical projects, and real-world problem solving.
+
+---
+
+## 🛠️ Tools & Technologies
+
+- Microsoft Azure
+- Git & GitHub
+- Linux
+- Windows
+- TCP/IP
+- DNS
+- HTTP/HTTPS
+- Markdown
 
 ---
 
 ## 🤝 Let's Connect
 
-📧 Email:
-**siambabon.it@gmail.com**
+📧 **Email**  
+siambabon.it@gmail.com
 
-💼 LinkedIn:
-**linkedin.com/in/siambabon**
+💼 **LinkedIn**  
+https://linkedin.com/in/siambabon
 
-🌍 Location:
+🌍 **Location**  
 Bangladesh
 
 ---
 
-> *"Consistency builds expertise. Every lab, every project, and every lesson brings me one step closer to becoming a world-class Cybersecurity Professional."*
+> *"Consistency, curiosity, and continuous learning are the foundation of every successful cybersecurity professional."*
