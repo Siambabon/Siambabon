@@ -1,7 +1,6 @@
 # 👋 Hi, I'm MD Siam Babon
 
-> Building practical cybersecurity skills through hands-on labs, technical projects, and continuous learning.
-
+> Cybersecurity enthusiast building practical skills through hands-on labs, technical projects, and continuous learning in Security Operations (SOC), Microsoft Azure, and Cloud Security.
 ## Aspiring Cybersecurity Analyst | Security Operations (SOC) • Microsoft Azure • Cloud Security
 
 I am an aspiring Cybersecurity Analyst with a strong interest in Security Operations (SOC), Microsoft Azure, and Cloud Security.
